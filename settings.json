@@ -1,0 +1,17 @@
+// config file for VS Code
+// /Users/USERNAME/Library/Application Support/Code/User/settings.json
+
+// pro hint: in a Workspace, you can add these settings on .vscode/settings.json to make it project based
+
+{
+  "window.zoomLevel": 0,
+  "editor.tabSize": 2,
+
+  // StatusBar color:
+  "workbench.colorCustomizations": {
+    "statusBar.background" : "#303030",
+    "statusBar.noFolderBackground" : "#222225",
+    "statusBar.debuggingBackground": "#511f1f"
+  },
+  
+}
